@@ -1,0 +1,11 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: Muhamad Nur Arifiansyah
+2. Email: nurfiansyah06@gmail.com
+3. Sistem Operasi yang digunakan: Windows, Mac, Linux
+4. Akun Github: nurfiansyah06
+5. Akun Telegram: @nur_arifiansyah
+6. Status (Bekerja/Mahasiswa): Bekerja
+7. Umur: 23 tahun
+8. Pernah menggunakan Go? : Ya
+9. Bahasa Pemrograman yg pernah dipelajari: Go, Javascript, PHP, Python
+10. Pernah membuat REST API? : Ya
